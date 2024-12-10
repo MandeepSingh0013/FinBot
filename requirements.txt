@@ -1,2 +1,10 @@
 pandas
--e .
+streamlit
+PyPDF2
+python-dotenv
+langchain
+langchain-community
+openai
+chromadb
+tiktoken
+# -e .
